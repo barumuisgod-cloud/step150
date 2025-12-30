@@ -1,6 +1,6 @@
 print("hello world")
 def greet():
-    print("こんにちわ")
+    print("こんにちは")
 
 greet()
 
